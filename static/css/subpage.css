@@ -1,0 +1,38 @@
+body, html {
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  font-family: 'Epilogue', sans-serif;
+}
+.navbar-brand{
+  font-weight: bold;
+}
+
+.row{
+    padding: 100px;
+}
+
+.title_1{
+    font-size: 30px;
+    font-weight:bold;
+    color:rgb(39, 39, 39);
+}
+
+.title_2{
+  font-size: 16px;
+  font-weight:normal;
+  color: rgb(90, 90, 90);
+}
+
+#video-container{
+display: flex;
+}
+
+#container{
+  padding: 20px 10px 10px 20px;
+}
